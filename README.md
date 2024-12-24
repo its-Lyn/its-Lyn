@@ -1,4 +1,6 @@
 ### Hi there 👋
+# Moved to CodeBerg!
+Follow me over [there](https://codeberg.org/itsEve)!
 
 <!--
 **its-Lyn/its-Lyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
